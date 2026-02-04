@@ -1,0 +1,7 @@
+- N1 (explorateur, mineur)
+	- N1-1 : Ambassadeur galactique (Humains - artéfact - non cumulable)
+	- N1-1: Technologie de catalyse (Mécas -deut - cumulable)
+	- N1-4 : Faisceau de traction télékinésique (Kaelesh - vaisseaux - non cumulable)
+	- N1-5 : Technologie de détection améliorée (Kaeleh - ressources - non cumulable)
+	- N1-1 : Batteries volcaniques (Rock'tal - énergie - cumulable)
+	-
